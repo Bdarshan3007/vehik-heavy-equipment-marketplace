@@ -2,13 +2,13 @@
 
 <div align="center">
 
-![VEHIK Platform Banner](https://images.unsplash.com/photo-1578328819058-b69f3a3b0f6b?auto=format&fit=crop&w=1400&q=80)
+![VEHIK Platform Banner](screenshots/portfolio_01_marketplace_home.png)
 
 [![React Version](https://img.shields.io/badge/React-19.0.1-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
-[![Vite Version](https://img.shields.io/badge/Vite-8.3.1-646C9F?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4.3-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](#license)
-[![Node Version](https://img.shields.io/badge/Node.js-%3E%3D18.0.0-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Vite Version](https://img.shields.io/badge/Vite-8.3.1-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vite.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4.3-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](#-license--attribution)
+[![Node Version](https://img.shields.io/badge/Node.js-%3E%3D18.0.0-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=flat-square)](#-available-npm-scripts)
 
 **An institutional frontend marketplace prototype connecting EPC contractors, infrastructure developers, and industrial plants with heavy construction machinery and commercial fleet owners across India's key freight corridors.**
@@ -133,20 +133,20 @@ The following high-resolution screenshots reflect the live application across it
 
 | Screen | Preview File | Description |
 |:---|:---|:---|
-| **01** | [`portfolio_01_marketplace_home.png`](./screenshots/portfolio_01_marketplace_home.png) | Homepage hero with industrial branding, value metrics, and quick search console. |
-| **02** | [`portfolio_02_machinery_catalog.png`](./screenshots/portfolio_02_machinery_catalog.png) | Machinery catalog with category tabs, spec badges, and multi-parameter filters. |
-| **03** | [`portfolio_03_corridor_routes.png`](./screenshots/portfolio_03_corridor_routes.png) | Transport Corridors page featuring Western freight artery hubs (Sanand, Mundra, JNPT). |
-| **04** | [`portfolio_04_ai_matcher.png`](./screenshots/portfolio_04_ai_matcher.png) | AI-Powered Requirement Matcher parsing tender clauses into matching candidates. |
-| **05** | [`portfolio_05_customer_dashboard.png`](./screenshots/portfolio_05_customer_dashboard.png) | Customer Portal showing active bookings, request status tags, and escrow controls. |
-| **06** | [`portfolio_06_provider_dashboard.png`](./screenshots/portfolio_06_provider_dashboard.png) | Fleet Owner Console showing owned fleet units, incoming RFQs, and custom quote tools. |
-| **07** | [`portfolio_07_admin_dashboard.png`](./screenshots/portfolio_07_admin_dashboard.png) | Operations Command showing verified provider metrics (`4 / 4 Verified`) and moderation log. |
+| **01** | [`portfolio_01_marketplace_home.png`](screenshots/portfolio_01_marketplace_home.png) | Homepage hero with industrial branding, value metrics, and quick search console. |
+| **02** | [`portfolio_02_machinery_catalog.png`](screenshots/portfolio_02_machinery_catalog.png) | Machinery catalog with category tabs, spec badges, and multi-parameter filters. |
+| **03** | [`portfolio_03_corridor_routes.png`](screenshots/portfolio_03_corridor_routes.png) | Transport Corridors page featuring Western freight artery hubs (Sanand, Mundra, JNPT). |
+| **04** | [`portfolio_04_ai_matcher.png`](screenshots/portfolio_04_ai_matcher.png) | AI-Powered Requirement Matcher parsing tender clauses into matching candidates. |
+| **05** | [`portfolio_05_customer_dashboard.png`](screenshots/portfolio_05_customer_dashboard.png) | Customer Portal showing active bookings, request status tags, and escrow controls. |
+| **06** | [`portfolio_06_provider_dashboard.png`](screenshots/portfolio_06_provider_dashboard.png) | Fleet Owner Console showing owned fleet units, incoming RFQs, and custom quote tools. |
+| **07** | [`portfolio_07_admin_dashboard.png`](screenshots/portfolio_07_admin_dashboard.png) | Operations Command showing verified provider metrics (`4 / 4 Verified`) and moderation log. |
 
 ---
 
 ## 🛠️ Tech Stack
 
 * **Framework:** [React 19](https://react.dev/) (`^19.0.1`) — Modern functional components, hooks, concurrent features.
-* **Build Tool:** [Vite 8](https://vitejs.dev/) (`^8.3.0`) — Lightning-fast development server and optimized Rollup production bundling.
+* **Build Tool:** [Vite 8](https://vite.dev/) (`^8.3.0`) — Lightning-fast development server and optimized Rollup production bundling.
 * **Styling:** [Tailwind CSS v4](https://tailwindcss.com/) (`^4.3.3`) with `@tailwindcss/vite` — Industrial design system with HSL colors and responsive utilities.
 * **Code Splitting:** Native `React.lazy` and `Suspense` for asynchronous route loading (reducing initial JS payload by 21.8%).
 * **Iconography:** [Lucide React](https://lucide.dev/) (`^0.546.0`) — Clean, lightweight SVGs for industrial UI.
@@ -162,8 +162,8 @@ The following high-resolution screenshots reflect the live application across it
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/your-username/vehik-marketplace.git
-cd vehik-marketplace
+git clone https://github.com/Bdarshan3007/vehik-heavy-equipment-marketplace.git
+cd vehik-heavy-equipment-marketplace
 ```
 
 ### Step 2: Install Dependencies
