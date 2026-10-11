@@ -1,0 +1,6 @@
+{
+  "name": "VEHIK - Commercial Vehicle & Equipment Service Marketplace",
+  "description": "B2B commercial vehicle and heavy equipment service marketplace connecting EPC contractors with verified cranes, trailers, excavators, and freight fleets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
